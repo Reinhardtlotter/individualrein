@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/89236857/164793455-939245fa-f198-4525-b5b3-65e5682f1ee8.png)
 <p>Fault tolerance is about redundancy so that if one component fails communications is not cut off from the others meaning the correct answer is A: The network is considered fault-tolerant because there are redundant paths between each pair of devices.</p>
 ![image](https://user-images.githubusercontent.com/89236857/164793641-a863e466-6602-4c19-88f9-dcc67c8a0cce.png)
-<p>The correct answer would be c: V because the Hexadecimal number of 56 is equivalent to the decimal number of 86 which corresponds the the letter V.
+<p>The correct answer would be c: V because the Hexadecimal number of 56 is equivalent to the decimal number of 86 which corresponds the the letter V.</p>
 ![image](https://user-images.githubusercontent.com/89236857/164794079-f370df3e-686d-41cc-8c17-e9dd8729a730.png)
 <p>The correct Answer is B because the definition of fault tolerance is that even when some things fail connection is still available. This is what answer B says which is why it is the correct answer.</p>
 ![image](https://user-images.githubusercontent.com/89236857/164797918-39bc53f2-9a06-4f49-89c4-a98c1e0172e5.png)
