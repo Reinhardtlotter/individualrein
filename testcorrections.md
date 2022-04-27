@@ -1,6 +1,19 @@
 {% include navigation.html %}
 
 
+<h1>Test 3</h1>
+![image](https://user-images.githubusercontent.com/89236857/165630422-fa41eb03-e071-4038-b754-815ec2802e58.png)
+![image](https://user-images.githubusercontent.com/89236857/165630567-6ab84ab4-4d34-4af2-8d30-9805c0aac24c.png)
+<p>1 does not work because tied people will both sit down. This meansif the 2 youmgets people tie they will sit down and the true youngest will not be standing</p>
+![image](https://user-images.githubusercontent.com/89236857/165631395-93878abf-bd35-4969-a993-469e7a53cd38.png)
+<p>C would not show 20 because it terminates before then but if it does when x is greater than 20 it will go to 21(whihc is dividisble by 3 and not show) and then terminate showing all the numbers 1-20.</p>
+![image](https://user-images.githubusercontent.com/89236857/165631630-04ca12a0-392e-4ea9-875d-a43b9d7c1c64.png)
+<p>D is corretc because it will return the sum of numbers 1-n. J will increase by one each time to loop until it is larger then n and adding to result each time so it adds all the numbers between 1 and n together.</p>
+![image](https://user-images.githubusercontent.com/89236857/165632411-8d254485-a07e-4650-a64e-8ea5915b16d1.png)
+<p>A is incorrect because it will open the gate outside of buisness hours but D is correct because it will only open it during the correct buisness hours.</p>
+![image](https://user-images.githubusercontent.com/89236857/165632532-fd6927d2-a02f-49f1-b2f3-15e405ee9d5d.png)
+<p>The correct answer is B because a no rights reserved liscense will allow free use nd distribution of someones work.</p>
+
 <h1>Test 1</h1>
 ![image](https://user-images.githubusercontent.com/89236857/164801442-dfada2b7-9564-436a-bae8-f36badd06a87.png)
 
