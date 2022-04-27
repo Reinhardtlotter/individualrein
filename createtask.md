@@ -31,9 +31,9 @@ olyscores = [
 <p>3b ii:</p>
 
 ```
-if event == "floor":
-  difference=olyscores[0]-startscore
-  print("The winning Floor score in the 2020 Olympics was "+str(olyscores[0])+" which was "+str(round(difference,3)) + " higher than your START. Isnt that crazy??")
+while count<=5:
+  print (str(olyscores[count])+":"+event[count])
+  count+=1
 ```
 <p>3b iii: the name of the list is olyscores.
 
@@ -80,6 +80,8 @@ for i in range(requir):
 print("Your start score is: "+str(round(startscore,2)))
 ```
 <p>3c iii: The procedure is used to calculate how much is being added to the start score based on the different skill values input by the user. 3c iv: The string uses skill count as a number and iterates i number of times. Each time it asks how much is the skill worth. if the input is a it adds 0.1 to startscores. If it is b it adds 0.2, c 0.3 and so on to i adding 0.9. If it is not a letter a-i it gives a message saying please input a letter value a-i. </p>
+
+<p>3d i: The procedure is called in the for i in range(requir) so it has a total to add to for the amoutn of requirments filled. A second call is when it is called to be printed and displayed for the user </p>
 
 <p> The create Task must have an algorithm, procedure, list, and user input. There will also be a video with no sound of the code and answers to written questions.</p>
 <p>For my create task I will create a program to calculate scores for gymnastics and compare them to olympians</p>
