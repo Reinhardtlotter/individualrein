@@ -44,30 +44,36 @@ while count<=5:
 <p>3c i:</p>
 
 ```
-def skills(skillcount,startscores):
-  for i in range(skillcount):
-      execution = (input("What is the "+str(i+1)+ " skill worth?(Please enter the letter value) "))
-      if execution == "a":
-          startscores += 0.1
-      elif execution == "b":
-        startscores += 0.2
-      elif execution == "c":
-        startscores += 0.3
-      elif execution == "d":
-        startscores += 0.4
-      elif execution == "e":
-        startscores += 0.5
-      elif execution == "f":
-        startscores += 0.6
-      elif execution == "g":
-        startscores += 0.7
-      elif execution == "h":
-        startscores += 0.8
-      elif execution == "i":
-        startscores += 0.9
-      else:
-        startscores="Please enter the LETTER value(a-i)"
-  return startscores
+def skills(skillcount,letterval):    # Skillcount = number of skills in routine (max 8); letterval = skill's letter value
+    execution=arr.array('u',['a','a','a','a','a','a','a','a','a'])
+    inputcounter = 0
+    while inputcounter<skillcount:
+        execution[inputcounter] = (input("What is the "+str(inputcounter+1)+ " skill worth?(Please enter the letter value) "))
+        if re.match("[a-i]", execution[inputcounter]):    #use regular expression to check for valid input
+            inputcounter+=1
+        else:
+            print ("Error! Only letters a-i allowed!")   #if input is not valid, alert user
+
+    for i in range(skillcount):        
+        if execution[inputcounter] == "a":
+            letterval += 0.1
+        elif execution[inputcounter] == "b":
+            letterval += 0.2
+        elif execution[inputcounter] == "c":
+            letterval += 0.3
+        elif execution[inputcounter] == "d":
+            letterval += 0.4
+        elif execution[inputcounter] == "e":
+            letterval += 0.5
+        elif execution[inputcounter] == "f":
+            letterval += 0.6
+        elif execution[inputcounter] == "g":
+            letterval += 0.7
+        elif execution[inputcounter] == "h":
+            letterval += 0.8
+        else:
+            letterval += 0.9
+    return letterval
 ```
 <p>3c ii:</p>
 
