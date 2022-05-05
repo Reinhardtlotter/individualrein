@@ -1,5 +1,23 @@
 {% include navigation.html %}
 
+<h1>Test 5</h1>
+
+![image](https://user-images.githubusercontent.com/89236857/167024245-bd07ee94-87e1-4a52-953f-ac5571177399.png)
+
+![image](https://user-images.githubusercontent.com/89236857/167024813-3f0df720-1379-40b7-9cde-aea40b0f2e17.png)
+<p>The correct answer is 7 bits because 2^6 is only 64. But 2^7 IS 128 meaning that the 100 staff members will each be able to recieve a unique bit sequence.</p>
+
+![image](https://user-images.githubusercontent.com/89236857/167025403-f7ae6c98-dc88-4777-8df2-61d1a09ea579.png)
+<p>The correct answer is B because heuristics can possibly be used to find solutions in a more reasonable time frame. The heuristic will help find approximate solutions quickly.</p>
+
+![image](https://user-images.githubusercontent.com/89236857/167025891-dbcf53c8-c055-4643-a873-74b99a58728b.png)
+<p>The corrct answer is D because the index-1 must go outside the condtitional statement. If it is inside the conditional it will only subtract when the word is the or a. This means it will nto terminate.</p>
+
+![image](https://user-images.githubusercontent.com/89236857/167026466-cd28d47f-af27-48a1-a371-5ca98799156a.png)
+<p>A is incrrect bevcause it uses nonproprietary protocols which are open. B is correct though because the open protocols make it easy for a new device to connect to the internet. Which makes it built for an increasing number of users.</p>
+
+![image](https://user-images.githubusercontent.com/89236857/167026838-d615ffd4-498c-4a13-8ff2-0601210f1f4f.png)
+<p>A is incorrect because certificate authorities do not verify the safety of websites. ALthough D is correct because certificate authorites distribute digital certificates which are used to certify the ownership of public keys.</p>
 
 <h1>Test 3</h1>
 
